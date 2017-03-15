@@ -6,6 +6,7 @@ Open android studio -> Tools -> Android -> AVD manager
 Then, start an emulator
 
 To link your ReactNative application with the emulator just type :
+
 `react-native run-android`
 
 Then, you should see your app on the device !
